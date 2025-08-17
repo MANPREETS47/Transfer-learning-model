@@ -1,1 +1,1 @@
-# Transfer-learning-model
+# Transfer-learning-model using VGG16 model
